@@ -1,5 +1,7 @@
 <template>
   <div id="app">
+    <p class="text-3xl mb-4 font-extrabold"> Dictionary</p>
+
     <div class="flex justify-center">
     <button
           type="submit"
